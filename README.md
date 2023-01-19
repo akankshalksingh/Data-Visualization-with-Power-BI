@@ -15,3 +15,6 @@ Key Findings:
 2. The Thai Chicken Pizza is the best-selling pizza
 3. Classic Pizza is the most selling pizza
 
+
+![This is an image](/relative/path/to/Pizza Place Sales.jpeg?raw=true "optional title")
+
