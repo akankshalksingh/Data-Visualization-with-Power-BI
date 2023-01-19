@@ -16,5 +16,4 @@ Key Findings:
 3. Classic Pizza is the most selling pizza
 
 
-![This is an image](/relative/path/to/Pizza Place Sales.jpeg?raw=true "optional title")
-
+![Pizza Place Sales](https://user-images.githubusercontent.com/76152292/213352998-8dfa252c-60fb-4989-8ff7-f2984351b430.jpeg)
