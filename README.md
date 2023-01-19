@@ -1,4 +1,4 @@
-# Data-Visualization-with-Power-BI
+# Data Visualization with Power BI
 ### I have created Power BI dashboard using the Maven Analytics dataset to improve data-driven decisions and my ability to see the big picture.
 
 To get the data I have used Maven Analytics - https://mavenanalytics.io/data-playground 
